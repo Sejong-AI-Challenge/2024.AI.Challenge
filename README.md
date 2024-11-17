@@ -1,11 +1,11 @@
 # MATLAB과 함께하는 2024 세종 AI 챌린지
 
 ## 두드림 신청
-- [두드림링크](https://do.sejong.ac.kr/ko/program/all/view/3032)
+- [두드림링크](https://do.sejong.ac.kr/ko/program/learn/view/3527)
 - 2024년 11월 1일(금) - 2024년 11월 15일(금)
 
 ## 안내문
-- [안내문 PDF](https://github.com/SejongAI-Challenge/2023.AI.Challenge/blob/main/%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5.jpeg)
+- [안내문 PDF](https://do.sejong.ac.kr/attachment/view/80252/AI%EC%B1%8C%EB%A6%B0%EC%A7%80_%EC%9B%B9%ED%8F%AC%EC%8A%A4%ED%84%B0+%EC%B5%9C%EC%A2%85%28%EA%B8%80%EC%9E%90%ED%82%A4%EC%9B%80%2C%EC%97%AC%EB%B0%B1%EC%A1%B0%EC%A0%95%29.png)
 - **챌린지 당일 진행에 관련된 실시간 공지는 아래 오튼카톡방을 통해 이루어질 예정입니다. 오픈카톡방 미참여로 인한 불이익이 있을 수 있으니 모든 신청자는 오픈카톡방에 참여해주시기 바랍니다.**
 
 
@@ -20,7 +20,7 @@
 ### 경시대회 준비 관련
 | | 사전 교육 | 링크 | 기타 | 
 |:--:|:--:|:--:|:--:|
-| 1 | 오픈 카톡방  |  개별초대완료  |
+| 1 | 오픈 카톡방  |  개별초대  |
 | 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상]|
 | 3 | 연습문제     |  [리더보드](https://www.kaggle.com/competitions/2024sejongaichallenge) | [해설영상] |
 | 4 | 기출문제     | [링크]  |
@@ -30,5 +30,5 @@
 ## 기타
 - 수고해주시는 분들
   - 교수님들: 김정현, 전창재
-  - 선생님들: 홍석민, 송수현
+  - 선생님들: 송수현, 홍석민
   - 조교님들: 권나현, 조예지, 김세하, 현장조교 10인 

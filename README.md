@@ -18,13 +18,13 @@
 
 ## 사전 교육 
 ### 경시대회 준비 관련
-| | 사전 교육 | 링크 | 기타 | 
+| | 사전 교육 | 링크1 | 링크2 | 
 |:--:|:--:|:--:|:--:|
 | 1 | 오픈 카톡방  |  개별초대  |
-| 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상]|
+| 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상](https://www.youtube.com/watch?v=LFCOH-s8IF8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY&index=2) |
 | 3 | 연습문제     |  [파이썬](https://www.kaggle.com/competitions/2024sejongaichallenge) | [매틀랩](https://www.kaggle.com/competitions/ad233esadafa) |
-| 4 | 기출문제     | [링크]  |
-| 5 | Mathworks 제공 메뉴얼 | [링크] | |
+| 4 | 기출문제     | [링크](https://github.com/SejongAI-Challenge/2023.AI.Challenge/issues/2) |
+| 5 | Mathworks 제공 메뉴얼 | [링크](https://kr.mathworks.com/academia/student-competitions/sejong-ai-challenge.html) |
 | 6| 안내사항 | [링크]() | |
 
 ## 기타

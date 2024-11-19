@@ -22,7 +22,7 @@
 |:--:|:--:|:--:|:--:|
 | 1 | 오픈 카톡방  |  개별초대  |
 | 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상](https://www.youtube.com/watch?v=LFCOH-s8IF8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY&index=2) |
-| 3 | 연습문제     |  [파이썬](https://www.kaggle.com/competitions/2024sejongaichallenge) | [매틀랩](https://www.kaggle.com/competitions/ad233esadafa) |
+| 3 | 연습문제     |  [파이썬](https://www.kaggle.com/t/6d11bfef85694a52a3a1a5f8911c3f4c) | [매틀랩](https://www.kaggle.com/t/978b4537fac14cdca2c5fbf58107de3b) |
 | 4 | 기출문제     | [링크](https://github.com/SejongAI-Challenge/2023.AI.Challenge/issues/2) |
 | 5 | Mathworks 제공 메뉴얼 | [링크](https://kr.mathworks.com/academia/student-competitions/sejong-ai-challenge.html) |
 | 6| 안내사항 | [링크]() | |
